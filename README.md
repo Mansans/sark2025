@@ -39,3 +39,4 @@ GitHub repositoryt har uppdaterats:
 Datamigrering kan påbörjas nästa vecka.
 
 ## Vecka 14
+g
